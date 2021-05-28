@@ -1,2 +1,3 @@
 - https://www.datacamp.com/community/tutorials/face-detection-python-opencv
-
+- https://www.kaggle.com/shawon10/ck-facial-expression-detection/execution
+- https://github.com/priya-dwivedi/face_and_emotion_detection
