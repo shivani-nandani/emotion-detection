@@ -1,6 +1,0 @@
-- https://www.datacamp.com/community/tutorials/face-detection-python-opencv
-- https://www.kaggle.com/shawon10/ck-facial-expression-detection/execution
-- https://github.com/priya-dwivedi/face_and_emotion_detection
-- https://towardsdatascience.com/wtf-is-image-classification-8e78a8235acb (IMPORTANT)
-- https://medium.com/nerd-for-tech/how-to-train-neural-networks-for-image-classification-part-1-21327fe1cc1
-- 
