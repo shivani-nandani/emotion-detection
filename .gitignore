@@ -1,6 +1,7 @@
-.ipynb_checkpoints
+.vscode\
 dataset
-.vs
+.ipynb_checkpoints\
+.vs\
 experiment
 archive.zip
 dataset
