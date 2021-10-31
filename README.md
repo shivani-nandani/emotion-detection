@@ -46,7 +46,7 @@ For JAFFE we used the first 130 principal components.
 #### CK+
 For CK+ we used the first 120 principal components.
 ### CNN
-The same model was used on both the datasets. The trained model and prediction for CK+ and JAFFE datasets can be found in fer_cnn_ck+.ipynb and fer_cnn_jaffe.ipynb respectively.
+The same model was used on both the datasets. The trained model and prediction for CK+ and JAFFE datasets can be found in <tt>fer_cnn_ck+.ipynb<\tt> and fer_cnn_jaffe.ipynb respectively.
   
 ## Resuts
 Method | Dataset | Accuracy(%)
