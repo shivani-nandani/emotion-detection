@@ -1,7 +1,7 @@
 # Emotion Detection using Facial Expressions
 
 ## Paper
-Submitted to FTNCT 2021
+Submitted to FTNCT 2021.
 Cite as:
 "to be included"
 
