@@ -40,13 +40,13 @@ Open access content available at: https://zenodo.org/record/3430156
 
 ## Proposed Methods
 ### PCA+SVM
-Model available in <tt>pca_svm_model.ipynb</tt>
+The models for CK+ and JAFFE datasets are available in <tt>pca_svm_model.ipynb</tt>.
 #### JAFFE
 For JAFFE we used the first 130 principal components.
 #### CK+
 For CK+ we used the first 120 principal components.
 ### CNN
-The same model was used on both the datasets. The trained model and prediction for CK+ and JAFFE datasets can be found in <tt>fer_cnn_ck+.ipynb</tt> and <tt>fer_cnn_jaffe.ipynb</tt> respectively.
+The same model was used on both the datasets. The model and prediction for CK+ and JAFFE datasets can be found in <tt>fer_cnn_ck+.ipynb</tt> and <tt>fer_cnn_jaffe.ipynb</tt> respectively.
   
 ## Resuts
 Method | Dataset | Accuracy(%)
