@@ -6,7 +6,7 @@ Cite as:
 "to be included"
 
 ## Datasets
-### CK+
+### CK+ 
 | Emotion  | #Images |
 |----------|---------|
 | Angry    | 45      |
